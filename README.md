@@ -1,0 +1,2 @@
+# rbfuse
+FUSE in Ruby
